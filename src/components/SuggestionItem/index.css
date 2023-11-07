@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.suggestion_list {
+  display: flex;
+  justify-content: space-between;
+}
+.para {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 13px;
+}
+.button {
+  background: none;
+  border: none;
+}
+.suggestion_arrow {
+  height: 20px;
+  outline: none;
+  cursor: pointer;
+}
